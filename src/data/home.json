@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "title": "ALAST — Bem-vindo à ALAST",
+    "description": "A Associação Latino Americana de Estudos do Trabalho"
+  },
+  "hero": {
+    "title": "Bem-vindo à ALAST",
+    "subtitle": "A Associação Latino Americana de Estudos do Trabalho",
+    "btnText": "Junte-se a nós",
+    "bgImage": "/images/hero.jpg",
+    "btnLink": "/blog"
+  },
+  "features": {
+    "title": "O que fazemos",
+    "items": [
+      {
+        "icon": "📚",
+        "title": "Compartilhamento de Conhecimento",
+        "desc": "Nosso grupo reúne profissionais das mais diversas áreas para compartilhar análises e conteúdos relevantes sobre o trabalho."
+      },
+      {
+        "icon": "⚖️",
+        "title": "Orientação Especializada",
+        "desc": "Oferecemos insights de advogados, técnicos de segurança do trabalho e especialistas em e-Social para aprimorar a compreensão das leis e regulamentos."
+      },
+      {
+        "icon": "👔",
+        "title": "Desenvolvimento Profissional",
+        "desc": "Ajudamos líderes e gerentes a melhorar suas habilidades através de coaching e troca de experiências com outros profissionais."
+      }
+    ]
+  },
+  "about": {
+    "title": "Sobre a ALAST",
+    "desc": "A ALAST é uma plataforma dedicada ao estudo e à discussão sobre o trabalho na América Latina. Comprometemo-nos a informar nossos leitores sobre as últimas tendências e análises no mundo do trabalho, proporcionando um espaço onde profissionais podem se conectar e compartilhar conhecimento.",
+    "stats": [
+      {
+        "value": "100+",
+        "label": "Profissionais Contribuintes"
+      },
+      {
+        "value": "5",
+        "label": "Áreas de Especialização"
+      },
+      {
+        "value": "50+",
+        "label": "Temas Abordados"
+      }
+    ],
+    "image": "/images/about.jpg",
+    "btnText": "Saiba Mais",
+    "btnLink": "/sobre"
+  },
+  "posts": {
+    "title": "Últimos Artigos",
+    "limit": 3,
+    "btnText": "Ver Blog",
+    "btnLink": "/blog"
+  }
+}

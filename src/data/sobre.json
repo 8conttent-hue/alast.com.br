@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "title": "Sobre Nós",
+    "description": "Conheça o ALAST"
+  },
+  "hero": {
+    "title": "Sobre Nós",
+    "subtitle": "A ALAST é uma plataforma dedicada ao estudo e à discussão sobre o trabalho na América Latina. Comprometemo-nos a informar nossos leitores sobre as últimas tendências e análises no mundo do trabalho, proporcionando um espaço onde profissionais podem se conectar e compartilhar conhecimento."
+  },
+  "content": "Eu sou Vitor Lima, Contador e Responsável Técnico na minha empresa. Minha missão é simplificar os processos contábeis e promover um entendimento mais claro das questões trabalhistas. Na ALAST, buscamos transformar a maneira como falamos sobre o trabalho, tornando informações acessíveis a todos.",
+  "mission": "Informar e conectar profissionais sobre tudo que envolve o mundo do trabalho.",
+  "image": "/images/sobre.jpg",
+  "stats": [
+    {
+      "value": "500+",
+      "label": "Artigos"
+    },
+    {
+      "value": "100k+",
+      "label": "Leitores"
+    },
+    {
+      "value": "5",
+      "label": "Redatores"
+    }
+  ],
+  "team": []
+}

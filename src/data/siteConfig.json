@@ -1,0 +1,53 @@
+{
+  "name": "ALAST",
+  "slug": "alast.com.br",
+  "description": "Associação Latino Americana de Estudos do Trabalho Unimos esse grupo para compartilharmos conteúdos relacionados às áreas que envolvem o Trabalho. Nosso grupo é composto por diversos profissionais que enviam suas análises sobre determinados temas de suas especialialidades, como: – Técnicos da segurança o trabalho – Advogados especializados em Direito Trabalhista – Especialistas em e-Social – Administradores de empresas – Coachs de líderes – Empresários – Executivos – Gerentes – Jornalistas. Dentre outros.. Nosso objetivo é informar nossos leitores à cerca de tudo que acontece no Mundo do Trabalho. Se você quiser juntar-se a nós e escrever nesse Blog também clique aqui: Entrar em Contato Att, Vitor Lima Contador. Sobre Eu sou o Vitor, Contador e Responsável Técnico de Contabilidade da minha empresa e dos meus clientes. Tenho o prazer de simplificar os processos para pequenos empreendedores, para trabalhadores em geral e profissionais que têm interesse no assunto. Então, nada mais justo começarmos a simplificar a forma de falarmos sobre TRABALHO.",
+  "url": "https://alast.com.br",
+  "niche": "Negócios e Empreendedorismo",
+  "keywords": "Associacao Latino Americana de Estudos do Trabalho Unimos esse grupo para compartilharmos",
+  "email": "contato@alast.com.br",
+  "palette": "gold",
+  "colors": {
+    "primary": "#ca8a04",
+    "accent": "#92400e",
+    "dark": "#451a03"
+  },
+  "headerContrast": "light",
+  "font": "playfair",
+  "fontFamily": "'Playfair Display', serif",
+  "fontUrl": "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700;800&display=swap",
+  "components": {
+    "header": "Header-D",
+    "hero": "Hero-E",
+    "features": "Features-H",
+    "about": "About-I",
+    "posts": "Posts-C",
+    "footer": "Footer-D",
+    "sobre": "Sobre-B",
+    "contato": "Contato-A"
+  },
+  "menu": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Blog",
+      "href": "/blog"
+    },
+    {
+      "label": "Sobre",
+      "href": "/sobre"
+    },
+    {
+      "label": "Contato",
+      "href": "/contato"
+    }
+  ],
+  "social": {
+    "instagram": "",
+    "facebook": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}
